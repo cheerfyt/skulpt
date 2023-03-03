@@ -75,5 +75,8 @@
   },
   "dependencies": {
     "jsbi": "^3.2.3"
+  },
+  "volta": {
+    "node": "10.24.1"
   }
 }
